@@ -1,0 +1,4 @@
+/Users/tanyong/Desktop/code/demo/googletest/build/CMakeFiles/MyTests.dir
+/Users/tanyong/Desktop/code/demo/googletest/build/CMakeFiles/test.dir
+/Users/tanyong/Desktop/code/demo/googletest/build/CMakeFiles/edit_cache.dir
+/Users/tanyong/Desktop/code/demo/googletest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/tanyong/Documents/课程/大三下/编译原理/实验/lab3'
+make: Leaving directory `/Users/tanyong/Documents/课程/大三下/编译原理/实验/lab3'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

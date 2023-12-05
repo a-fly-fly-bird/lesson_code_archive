@@ -1,0 +1,29 @@
+Start testing: Nov 08 15:32 CST
+----------------------------------------------------------
+1/1 Testing: MyTest.Sum
+1/1 Test: MyTest.Sum
+Command: "/Users/tanyong/Desktop/code/demo/googletest/build/MyTests" "--gtest_filter=MyTest.Sum" "--gtest_also_run_disabled_tests"
+Directory: /Users/tanyong/Desktop/code/demo/googletest/build
+"MyTest.Sum" start time: Nov 08 15:32 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MyTest.Sum
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MyTest
+[ RUN      ] MyTest.Sum
+[       OK ] MyTest.Sum (0 ms)
+[----------] 1 test from MyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MyTest.Sum" end time: Nov 08 15:32 CST
+"MyTest.Sum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 08 15:32 CST
